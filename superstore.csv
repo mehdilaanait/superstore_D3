@@ -1,18 +1,18 @@
 id,value
-Furniture.culster.Bookcases,868
-Furniture.culster.Chairs,2356
-Furniture.culster.Furnishings,3563
-Furniture.culster.Tables,1241
-Office Supplies.culster.Appliances,1729
-Office Supplies.culster.Art,3000
-Office Supplies.culster.Binders,5974
-Office Supplies.culster.Envelopes,906
-Office Supplies.culster.Fasteners,914
-Office Supplies.culster.Labels,1400
-Office Supplies.culster.Paper,5178
-Office Supplies.culster.Storage,3158
-Office Supplies.culster.Supplies,647
-Technology.culster.Accessories,2976
-Technology.culster.Copiers,234
-Technology.culster.Machines,440
-Technology.culster.Phones,3289
+Furniture.cluster.Bookcases,868
+Furniture.cluster.Chairs,2356
+Furniture.cluster.Furnishings,3563
+Furniture.cluster.Tables,1241
+Office Supplies.cluster.Appliances,1729
+Office Supplies.cluster.Art,3000
+Office Supplies.cluster.Binders,5974
+Office Supplies.cluster.Envelopes,906
+Office Supplies.cluster.Fasteners,914
+Office Supplies.cluster.Labels,1400
+Office Supplies.cluster.Paper,5178
+Office Supplies.cluster.Storage,3158
+Office Supplies.cluster.Supplies,647
+Technology.cluster.Accessories,2976
+Technology.cluster.Copiers,234
+Technology.cluster.Machines,440
+Technology.cluster.Phones,3289
