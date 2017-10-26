@@ -1,18 +1,22 @@
 id,value
-Furniture.cluster.Bookcases,868
-Furniture.cluster.Chairs,2356
-Furniture.cluster.Furnishings,3563
-Furniture.cluster.Tables,1241
-Office Supplies.cluster.Appliances,1729
-Office Supplies.cluster.Art,3000
-Office Supplies.cluster.Binders,5974
-Office Supplies.cluster.Envelopes,906
-Office Supplies.cluster.Fasteners,914
-Office Supplies.cluster.Labels,1400
-Office Supplies.cluster.Paper,5178
-Office Supplies.cluster.Storage,3158
-Office Supplies.cluster.Supplies,647
-Technology.cluster.Accessories,2976
-Technology.cluster.Copiers,234
-Technology.cluster.Machines,440
-Technology.cluster.Phones,3289
+Superstore
+Superstore.Furniture
+Superstore.Furniture.Bookcases,868
+Superstore.Furniture.Chairs,2356
+Superstore.Furniture.Furnishings,3563
+Superstore.Furniture.Tables,1241
+Superstore.Office Supplies
+Superstore.Office Supplies.Appliances,1729
+Superstore.Office Supplies.Art,3000
+Superstore.Office Supplies.Binders,5974
+Superstore.Office Supplies.Envelopes,906
+Superstore.Office Supplies.Fasteners,914
+Superstore.Office Supplies.Labels,1400
+Superstore.Office Supplies.Paper,5178
+Superstore.Office Supplies.Storage,3158
+Superstore.Office Supplies.Supplies,647
+Superstore.Technology
+Superstore.Technology.Accessories,2976
+Superstore.Technology.Copiers,234
+Superstore.Technology.Machines,440
+Superstore.Technology.Phones,3289
